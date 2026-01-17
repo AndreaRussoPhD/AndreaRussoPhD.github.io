@@ -33,6 +33,8 @@ I am currently a Postdoctoral Researcher in Computational Social Science at the 
 </ul>
 
 ## Featured Publications
+<div>
+  {% include featured_publications.html %}
+</div>
 
-{% include featured_publications.html %}
 
