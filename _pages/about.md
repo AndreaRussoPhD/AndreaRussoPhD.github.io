@@ -34,5 +34,18 @@ I am currently a Postdoctoral Researcher in Computational Social Science at the 
 
 ## Featured Publications
 
-{% include featured_publications.html %}
+{% for pub in site.data.featured_publications %}
+**{{ pub.title }}**  
+{{ pub.authors }}  
+*{{ pub.venue }}*, {{ pub.year }}  
+
+{% if pub.paperurl %}
+[PDF]({{ pub.paperurl }})
+{% endif %}
+{% if pub.cite %}
+ · [Cite]({{ pub.cite }})
+{% endif %}
+
+{% endfor %}
+
 
