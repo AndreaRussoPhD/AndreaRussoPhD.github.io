@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+I do not always update this list in time, more details of my published papers could be found from [Google Scholar](https://scholar.google.com/citations?user=uuWmYqwAAAAJ&hl=it).
 
 - **Russo, A.** (2025). *Algorithmic Influence on Conflict and Cooperation in Digital Communities*.
   In *Complex Networks & Their Applications XIII*, pp. 433–444. Springer Nature Switzerland.
