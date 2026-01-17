@@ -5,8 +5,8 @@
 <div style="margin-bottom: 1.8em; overflow: auto;">
 
   {% if pub.image %}
-  <img src="{{ pub.image }}" alt="publication image"
-       style="max-width: 200px; float:left; margin-right: 15px;">
+  <img src="{{ pub.image | relative_url }}" alt="publication image"
+       style="max-width:200px; float:left; margin-right:15px;">
   {% endif %}
 
   <strong>{{ pub.title }}</strong><br>
