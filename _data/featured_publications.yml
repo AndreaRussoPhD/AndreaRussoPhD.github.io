@@ -2,7 +2,7 @@
   authors: "Andrea Russo"
   venue: "Complex Networks & Their Applications XIII, Springer Nature Switzerland"
   year: "2025"
-  image: "/images/featured/complex_networks_xiii.png"
+  image: "/images/themes/Striking-image.png"
   pdf: "https://doi.org/10.1007/978-3-031-82431-9_36"
   cite: "/files/cite/russo2025_complex_networks.bib"
 
@@ -10,6 +10,6 @@
   authors: "Andrea Russo, Davide Pizzul"
   venue: "Italian Sociological Review"
   year: "2025"
-  image: "/images/featured/ddytk.png"
+  image: "/images/themes/HeadISR.png"
   pdf: "/files/papers/data_donation_youtube_tiktok.pdf"
   cite: "/files/cite/data_donation_youtube_tiktok.bib"
