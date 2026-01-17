@@ -4,8 +4,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Employment
---
 
 ## Education
 
