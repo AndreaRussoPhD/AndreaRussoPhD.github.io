@@ -27,10 +27,10 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Andrea_Russo_CV.pdf
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /files/Andrea_Russo_CV.pdf
     
   #- title: "Guide"
    # url: /markdown/
