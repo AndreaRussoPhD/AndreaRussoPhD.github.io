@@ -13,9 +13,7 @@ I am currently a Postdoctoral Researcher in Computational Social Science at the 
 
 ## Research Interest
 - Computational Social Science, Sociology, Marketing, Security Studies, and Political Studies.
-
 - Complex Systems, Collective Intelligence, Self-Organized Criticality, and Stochastic Resonance.
-
 - Artificial Intelligence, Space Industry, Natural Language Processing (NLP), and Network Science.
 
 
