@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "Business Portfolio"
-permalink: /business portfolio/
+permalink: /businessportfolio/
 author_profile: true
 ---
+
+Business Curriculum download [here](/files/Andrea_Russo_CV_Business.pdf)
 
 - Open Innovation Project with Alstom, A2A and [ELIS](https://www.elis.org/) (May 2019).<br>
   For the Alstom project, development of an AI chatbot to support train maintenance workers and improve maintenance processes, in collaboration with Keethings.<br>
