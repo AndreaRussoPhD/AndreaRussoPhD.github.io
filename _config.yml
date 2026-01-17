@@ -12,10 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Andrea Russo"
 title_separator          : "-"
 name                     : &name "Andrea Russo"
-description: &description "Researcher · Law · Computational Social Science."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://AndreaRussoPhD.github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Researcher · Law · Computational Social Science."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://AndreaRussoPhD.github.io"              # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  :""
 repository               :"AndreaRussoPhD/AndreaRussoPhD.github.io"
 
 
