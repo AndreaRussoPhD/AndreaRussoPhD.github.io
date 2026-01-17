@@ -62,7 +62,7 @@ author_profile: true
 
   ## Speaker, Panel and Satellite Organization
   
-  - **Organizer and Speaker**, Summer School: *Digital Methods for Critical Consumer Studies*.
+- **Organizer and Speaker**, Summer School: *Digital Methods for Critical Consumer Studies*.
   23–26 September 2025.
 
 - **Invited Speaker**, Netplace Seminar.
