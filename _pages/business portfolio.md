@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Business Portfolio"
 permalink: /businessportfolio/
 author_profile: true
 ---
