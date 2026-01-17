@@ -2,25 +2,21 @@
 <h2>Featured Publications</h2>
 
 {% for pub in site.data.featured_publications %}
-<div class="publication-item" style="margin-bottom:1.5em;">
-  
+<div style="margin-bottom: 1.8em; overflow: auto;">
+
   {% if pub.image %}
   <img src="{{ pub.image }}" alt="publication image"
-       style="max-width:200px; float:left; margin-right:15px;">
+       style="max-width: 200px; float:left; margin-right: 15px;">
   {% endif %}
 
   <strong>{{ pub.title }}</strong><br>
   {{ pub.authors }}<br>
   <em>{{ pub.venue }}</em>, {{ pub.year }}<br>
 
-  {% if pub.paperurl %}
-    <a href="{{ pub.paperurl }}" target="_blank">PDF</a>
-  {% endif %}
-  {% if pub.cite %}
-    | <a href="{{ pub.cite }}">Cite</a>
+  {% if pub.paperurl and pub.paperurl != "#" %}
+    <a href="{{ pub.paperurl }}" target="_blank" rel="noopener">PDF</a>
   {% endif %}
 
-  <div style="clear:both;"></div>
 </div>
 {% endfor %}
 {% endif %}
