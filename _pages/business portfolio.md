@@ -6,6 +6,26 @@ author_profile: true
 
 Business Curriculum download [here](/files/Andrea_Russo_CV_Business.pdf)
 
+## Technical Skills and Programming Languages
+
+- Programming Languages and Tools.<br>
+  Proficient in Python (data analysis, machine learning, web scraping), with experience in data cleaning, preprocessing, and visualization.<br>
+  Experienced with Gephi (network analysis), RStudio (basic data visualization and statistical analysis), and LaTeX/Overleaf.
+
+- AI and NLP Expertise.<br>
+  Experience in designing and implementing Natural Language Processing (NLP) workflows, including text classification, sentiment analysis, emotion detection, and linguistic data processing (BERT, BERTopic, RoBERTa, etc.), as well as digital profiling.
+  Experienced in working with AI-based APIs (OpenAI, Gemini) for automation, text generation, and large-scale data analysis.
+  Familiar with managing AI interactions and deploying language models for downstream analytical tasks.
+  Developer of the Italian VADER Sentiment Analysis tool, publicly available at https://github.com/AndreaRussoAgid/VADER-Italian-Sentiment.
+
+- Web Scraping and APIs.<br>
+  Skilled in web scraping techniques and API integration for data collection and analysis, including TikTok, YouTube, Wikipedia, and Telegram.
+
+- Languages.<br>
+  Italian (mother tongue), French (C2), English (C1).
+
+## Business Portfolio
+
 - Open Innovation Project with Alstom, A2A and [ELIS](https://www.elis.org/) (May 2019).<br>
   For the Alstom project, development of an AI chatbot to support train maintenance workers and improve maintenance processes, in collaboration with Keethings.<br>
   For the A2A project, innovation of in-store IoT systems aimed at collecting customer data and building client target clusters.<br>
