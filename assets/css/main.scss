@@ -41,3 +41,35 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.featured-pub-card{
+  display:flex;
+  gap:18px;
+  padding:14px 0;
+  border-bottom:1px solid rgba(0,0,0,.08);
+}
+
+.featured-pub-thumb img{
+  width:140px;
+  height:auto;
+  border-radius:6px;
+  display:block;
+}
+
+.featured-pub-title{
+  font-weight:700;
+  font-size:1.05rem;
+  line-height:1.25;
+  margin-bottom:6px;
+}
+
+.featured-pub-authors{
+  margin-bottom:4px;
+}
+
+.featured-pub-actions{
+  margin-top:10px;
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
