@@ -17,3 +17,19 @@ I am currently a Postdoctoral Researcher in Computational Social Science at the 
 - Complex Systems, Collective Intelligence, Self-Organized Criticality, and Stochastic Resonance.
 
 - Artificial Intelligence, Space Industry, Natural Language Processing (NLP), and Network Science.
+
+
+
+## News
+
+<ul>
+{% for item in site.data.news %}
+  <li><strong>{{ item.date }}.</strong>
+    {% if item.link and item.link != "" %}
+      <a href="{{ item.link }}">{{ item.text }}</a>
+    {% else %}
+      {{ item.text }}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
