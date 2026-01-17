@@ -32,3 +32,6 @@ I am currently a Postdoctoral Researcher in Computational Social Science at the 
 {% endfor %}
 </ul>
 
+## Featured Publications
+
+{% include featured_publications.html %}
