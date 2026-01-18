@@ -32,11 +32,11 @@ title: ""
 
 - Jan. 2022 – July 2022: University College Dublin (UCD), Dublin, Ireland<br>
   Visiting PhD Student<br>
-  Supervised by [prof. Taha Yasseri](https://tahayasseri.com/)
+  Supervised by [Prof. Taha Yasseri](https://tahayasseri.com/)
 
  - Nov. 2019 – July 2023: University of Catania, Italy<br>
   PhD in Physics of Complex Systems (*Doctor Europaeus*)<br>
-  Supervised by [prof. Giovanni Giuffrida](https://www.dsps.unict.it/docenti/giovanni.giuffrida) and [Prof. Francesco Mazzeo Rinaldi](https://www.dsps.unict.it/docenti/francesco.mazzeorinaldi)
+  Supervised by [Prof. Giovanni Giuffrida](https://www.dsps.unict.it/docenti/giovanni.giuffrida) and [Prof. Francesco Mazzeo Rinaldi](https://www.dsps.unict.it/docenti/francesco.mazzeorinaldi)
 
 ## Services
 - Associate Member of the Italian Intelligence Society (*SOCINT*).
