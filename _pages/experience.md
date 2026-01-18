@@ -2,8 +2,7 @@
 layout: single
 permalink: /experience/
 author_profile: true
-title:
-show_title: false
+title: ""
 ---
 
 
