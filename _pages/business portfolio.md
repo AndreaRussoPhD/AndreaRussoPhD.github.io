@@ -16,7 +16,7 @@ Business Curriculum download [here](/files/Andrea_Russo_CV_Business.pdf)
   Experience in designing and implementing Natural Language Processing (NLP) workflows, including text classification, sentiment analysis, emotion detection, and linguistic data processing (BERT, BERTopic, RoBERTa, etc.), as well as digital profiling.
   Experienced in working with AI-based APIs (OpenAI, Gemini) for automation, text generation, and large-scale data analysis.
   Familiar with managing AI interactions and deploying language models for downstream analytical tasks.
-  Developer of the Italian VADER Sentiment Analysis tool, publicly available at https://github.com/AndreaRussoAgid/VADER-Italian-Sentiment.
+  Developer of the Italian VADER Sentiment Analysis tool, publicly available at [Link](https://github.com/AndreaRussoAgid/VADER-Italian-Sentiment).
 
 - Web Scraping and APIs.<br>
   Skilled in web scraping techniques and API integration for data collection and analysis, including TikTok, YouTube, Wikipedia, and Telegram.
