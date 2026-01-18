@@ -6,10 +6,6 @@ title: ""
 ---
 
 
-
-## Employement
---
-
 ## Education
 
 - PhD in Complex Systems for Physical, Socio-economic and Life Sciences (Sept 2023).<br>
