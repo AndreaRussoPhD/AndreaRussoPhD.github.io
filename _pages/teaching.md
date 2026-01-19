@@ -8,6 +8,7 @@ author_profile: true
 
 - Como Summer School for Digital Methods (September 2025).<br>
   Data analysis – 6 days (15 hours).
+  [Research Report](https://msmc.unimi.it/recommended-advertising-on-youtube/)  
 
 - Sorbonne University (February 2024).<br>
   Data analysis in R – 13 days (20 hours).
