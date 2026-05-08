@@ -23,7 +23,7 @@ title: ""
 ## Experience
 
 - Feb. 2026 - May 2026: University of Salzburg<br>
-Researcher Consultant with the project [Coding Gender equality statements](https://www.eui.eu/research-hub?id=gender-mainstreaming-in-the-pandemic-recovery-womens-substantive-representation-across-the-policy-cycle)
+Researcher Consultant with the project [Coding Gender equality statements](https://www.eui.eu/research-hub?id=gender-mainstreaming-in-the-pandemic-recovery-womens-substantive-representation-across-the-policy-cycle)<br>
 Supervised by: [Matilde Ceron](https://www.eui.eu/people?id=matilde-ceron)
 
 - Oct. 2024 – Oct. 2025: University of Pavia / University of Milan, Italy.<br>
